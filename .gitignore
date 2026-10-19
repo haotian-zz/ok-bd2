@@ -85,3 +85,6 @@ Desktop.ini
 *.mov
 /recognition-assets/template-assets/QQ????????-??????.png
 /recognition-assets/template-assets/*.mp4_*.png
+
+# Local launch helpers
+/run*.bat
